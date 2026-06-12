@@ -5,7 +5,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-8.0-646cff?style=flat-square&logo=vite)](https://vite.dev/)
 
-![Uploading image.png…]()
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/89f9e315-df2f-4c75-b708-43b1004aba07" />
+
 
 
 **Lithos** is an immersive, highly interactive web application designed to showcase Earth's geological layers through deep-time exploration. Combining smooth web animation, custom HTML5 Canvas mask processing, and a high-end editorial design system, Lithos offers a unique window into the history written beneath our feet.
