@@ -43,8 +43,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18+ recommended).
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/3dWebsite1-Antigravity.git
-    cd 3dWebsite1-Antigravity
+    git clone https://github.com/YOUR_USERNAME/Lithos.git
+    cd Lithos
     ```
 
 2.  **Install Dependencies**
