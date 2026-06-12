@@ -47,7 +47,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18+ recommended).
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Lithos.git
+    git clone https://github.com/dipangshudas-dev/Lithos.git
     cd Lithos
     ```
 
